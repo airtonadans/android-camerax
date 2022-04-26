@@ -1,6 +1,6 @@
 # Android CameraX
 
-CameraX aims to demonstrate how to use CameraX APIs written in Kotlin.
+CameraX tem como objetivo demonstrar como usar APIs CameraX escritas em Kotlin.
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
 alt="Get it on Google Play" height="90">](https://play.google.com/store/apps/details?id=com.arindam.camerax)
